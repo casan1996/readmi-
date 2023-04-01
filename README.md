@@ -1,2 +1,2 @@
-# readmi-
-este es un proyecto  apertura 
+
+creando un repositorio de prueba 
